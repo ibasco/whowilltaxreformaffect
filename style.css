@@ -2,10 +2,12 @@ h1 {
 	font-size: 100px;
 	color:black;
 	text-align: center;
+	font-family: sans-serif;
+	font-style: bold;
 }
 
 .chartcontainer {
-	max-width: 5000px;
+	max-width: 600px;
 	text-align: center;
 }
 
@@ -13,28 +15,42 @@ h2 {
 	font-size: 35px; 
  	color:black;
  	text-align: center;
-}
+ 	font-family: sans-serif;
+ 	font-style: normal;
+ }
 
 h3 {
 	font-size: 25px;
 	color:black;
-	text-align: center;
+	text-align: left;
+	font-family: sans-serif;
+	font-style: normal;
 }
 
 h4 {
 	font-size: 25px;
 	color:black;
 	text-align: center;
+	font-family: sans-serif;
+	font-style: normal;
 }
 
 h5 {
 	font-size: 25px;
 	color:black;
 	text-align: center;
+	font-family: sans-serif;
+	font-style: normal;
 }
 
 h6 {
 	font-size: 25px;
 	color:black;
-	text-align:center;
+	text-align: center;
+	font-family: sans-serif;
+	font-style: normal;
+}
+
+h7 {
+	text-align: center;
 }
