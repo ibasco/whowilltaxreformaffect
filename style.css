@@ -9,14 +9,12 @@ h1 {
 }
 
 p {
-	display: block
-	margin:0 auto 15px auto;
-	max-width: 600px;
-	font-size: 30px;
+	font-size: 20px;
 	font-family: sans-serif;
+	text-align: left;
 
 .chartcontainer {
-	max-width: 600px;
+	max-width: 300px;
 	text-align: center;
 	margin: 0 auto;
 }
@@ -25,10 +23,11 @@ p {
 	display:block 
 	margin: 0 auto 15px auto;
 	max-width: 600px;
+	font-size: 15px;
 }
 
 h2 { 
-	font-size: 15px; 
+	font-size: 200%; 
  	color:black;
  	text-align: center;
  	font-family: sans-serif;
@@ -36,8 +35,25 @@ h2 {
  }
 
 h3 {
-	font-size: 15px;
+	font-size: 200%;
 	color:black;
+	text-align: center;
+	font-family: sans-serif;
+	font-variant: normal;
+}
+
+p {
+	display: block;
+	margin: 0 auto 15px auto;
+	max-width: 600px;
+	font-size: 15px
+	color: black
+	font: sans-serif;
+}
+
+h4 {
+	font-size: 200%;
+	color: black;
 	text-align: left;
 	font-family: sans-serif;
 	font-variant: normal;
@@ -51,3 +67,21 @@ p {
 	color: black
 	font: sans-serif;
 }
+
+h5 {
+	font-size: 200%px;
+	color: black;
+	text-align: left;
+	font-family: sans-serif;
+}
+
+p {
+	display: block;
+	font-size: 15px
+	color: black
+	font: sans-serif;
+}
+
+
+
+
