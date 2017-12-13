@@ -53,8 +53,8 @@ p {
 
 h4 {
 	font-size: 200%;
-	color: black;
-	text-align: left;
+	color:black;
+	text-align: center;
 	font-family: sans-serif;
 	font-variant: normal;
 }
@@ -71,8 +71,9 @@ p {
 h5 {
 	font-size: 200%px;
 	color: black;
-	text-align: left;
+	text-align: center;
 	font-family: sans-serif;
+	font-variant:normal;
 }
 
 p {
